@@ -1,0 +1,2 @@
+this is the data from external data.txt file 
+hellow all welcome to new world of django
